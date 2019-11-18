@@ -1,0 +1,3 @@
+[submodule "cue.mod/pkg/github.com/ipcf/t"]
+	path = cue.mod/pkg/github.com/ipcf/t
+	url = git@github.com:ipcf/t
